@@ -1,1 +1,2 @@
 # ECG_Project
+This project aims at building a CNN-LSTM hybrid learning model to automate ECG analysis. Included is my ECG google collab notebook where my code was written. After clicking run all, the code will start and will need time to execute downloading the file records and testing for validation accuracy. At the end there will be a Gradio link to go through the files and see how the model classified the first 20 heartbeats, the heart rate, SMNN and RMSSD. 
